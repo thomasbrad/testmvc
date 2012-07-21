@@ -10,7 +10,7 @@ namespace TestMvc.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to ASP.NET MVC!";
+            ViewBag.Message = "Welcome to AppHarbor!";
 
             return View();
         }
